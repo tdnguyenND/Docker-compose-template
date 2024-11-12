@@ -22,4 +22,4 @@ networks:
     driver: bridge
 
 volumes:
-    postgres:
+    mysql:
